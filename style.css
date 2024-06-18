@@ -1,0 +1,14 @@
+body{
+    background-color: palegoldenrod;
+    font-family: 'Times New Roman', Times, serif;
+}
+.title{
+    font-size: 32px;
+}
+.lists{
+    list-style-type:circle;
+}
+.lists a{
+    text-decoration: none;
+    color: black;
+}
